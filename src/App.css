@@ -1,0 +1,14 @@
+
+.row .col{
+    display: block;
+	float: left;
+	margin: 1% 0 1% 1.6%;
+    background:#CCC;
+    padding:2%;
+    border-radius: 20px;
+    width: 48%;
+}
+.row h1 {
+    text-align: center;
+}
+
